@@ -1,0 +1,10 @@
+Some of the features of Python are: 
+
+ 1. Easy to learn 
+ 2. Interactive 
+ 3. Dynamically typed 
+ 4. Extensible and embeddable 
+ 5. Large standard library 
+ 6. Extensive support libraries 
+ 7. Platform independent 
+ 8. Free and open source

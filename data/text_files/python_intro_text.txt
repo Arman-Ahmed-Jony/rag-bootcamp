@@ -1,0 +1,3 @@
+Python is a popular, high-level programming language created by Guido van Rossum and first released in 1991. It is known for its simple and readable syntax, which makes it easy for beginners to learn. Python supports multiple programming styles, including procedural, object-oriented, and functional programming.
+        It is widely used for web development, data analysis, automation, scientific computing, artificial intelligence, and more. Python runs on many platforms like Windows, macOS, and Linux, making it very versatile.
+        Because Python code is easy to write and read, it is often used for rapid prototyping as well as production software.
