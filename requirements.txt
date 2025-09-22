@@ -3,3 +3,10 @@ langchain-core
 langchain-community
 pypdf
 pymupdf
+
+# for embedding and vector store database
+# we will use sentence-transformers for embedding 
+sentence-transformers
+# for vector store database we can use chromadb, faiss-cpu, etc.
+chromadb
+faiss-cpu
