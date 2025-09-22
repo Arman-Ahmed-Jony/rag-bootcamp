@@ -67,6 +67,9 @@ source .venv/bin/activate
 # Install project dependencies
 uv sync
 
+# Install additional development dependencies
+uv add ipykernel
+
 # Or install dependencies in development mode
 uv pip install -e .
 ```
@@ -93,6 +96,9 @@ uv add package-name
 # Add a development dependency
 uv add --dev package-name
 
+# Add Jupyter kernel support (for notebooks)
+uv add ipykernel
+
 # Add a specific version
 uv add "package-name>=1.0.0,<2.0.0"
 ```
@@ -115,6 +121,12 @@ uv run python script_name.py
 
 # Run with specific Python version
 uv run --python 3.13 python script_name.py
+
+# Run Jupyter notebooks (after installing ipykernel)
+jupyter notebook
+
+# Or run JupyterLab
+jupyter lab
 ```
 
 ## Project Structure
